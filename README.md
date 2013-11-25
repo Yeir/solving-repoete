@@ -1,4 +1,4 @@
-solving-reporte
+solving-report
 ===============
 
 各种面试题
